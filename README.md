@@ -3,7 +3,7 @@ Immersive art gallery to display art projects using three.js
 
 
 
-
+![Gallery screenshot](https://github.com/su-z-ana/nex/blob/main/ss/gallery.png?raw=true)
 https://raw.githubusercontent.com/su-z-ana/nex/ss/gallery.png
 ![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny2.png)
 ![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny3.png)
